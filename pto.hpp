@@ -8,7 +8,7 @@ namespace pto {
     using eosio::symbol;
     using eosio::name;
 
-    const name id = "dfs"_n;
+    const name id = "pto"_n;
     const name exchange = "ptoswapaccts"_n;
 
     /**
