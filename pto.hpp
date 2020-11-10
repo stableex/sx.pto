@@ -9,7 +9,8 @@ namespace pto {
     using eosio::name;
 
     const name id = "pto"_n;
-    const name exchange = "ptoswapaccts"_n;
+    const name code = "ptoswapaccts"_n;
+    const string description = "PTO Swap Converter";
 
     /**
      * markets
