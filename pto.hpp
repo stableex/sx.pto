@@ -10,7 +10,7 @@ namespace pto {
 
     const name id = "pto"_n;
     const name code = "ptoswapaccts"_n;
-    const string description = "PTO Swap Converter";
+    const std::string description = "PTO Swap Converter";
 
     /**
      * markets
